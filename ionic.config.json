@@ -1,0 +1,7 @@
+{
+  "name": "daves-expense-app-3",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
